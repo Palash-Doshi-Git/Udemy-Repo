@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "27zIK04tzk9pnnYHeZFNkoJngJdOa41dS6M6VUi9jwMX0xblD74UoQnfS89CsKP7onklcBAVh9f3JrVBc+2lJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\palash.doshi\\source\\repos\\SeleniumBrowserFactory\\SeleniumBrowserFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palash.doshi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\palash.doshi\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\palash.doshi\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\palash.doshi\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\palash.doshi\\.nuget\\packages\\selenium.webdriver.msedgedriver\\104.0.1293.54\\selenium.webdriver.msedgedriver.104.0.1293.54.nupkg.sha512"
+  ],
+  "logs": []
+}

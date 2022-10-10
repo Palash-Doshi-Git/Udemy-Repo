@@ -1,0 +1,15 @@
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\bin\Debug\net6.0\CSIntermideDIATE.exe
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\bin\Debug\net6.0\CSIntermideDIATE.deps.json
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\bin\Debug\net6.0\CSIntermideDIATE.runtimeconfig.json
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\bin\Debug\net6.0\CSIntermideDIATE.dll
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\bin\Debug\net6.0\CSIntermideDIATE.pdb
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.csproj.AssemblyReference.cache
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.AssemblyInfoInputs.cache
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.AssemblyInfo.cs
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.csproj.CoreCompileInputs.cache
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.dll
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\refint\CSIntermideDIATE.dll
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.pdb
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\CSIntermideDIATE.genruntimeconfig.cache
+C:\Users\palash.doshi\source\repos\CSIntermideDIATE\obj\Debug\net6.0\ref\CSIntermideDIATE.dll

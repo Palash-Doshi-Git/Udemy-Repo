@@ -1,0 +1,17 @@
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Flipkart.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Flipkart.pdb
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\WebDriver.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\obj\Debug\Flipkart.csproj.AssemblyReference.cache
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\obj\Debug\Flipkart.csproj.CoreCompileInputs.cache
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\obj\Debug\Flipkart.csproj.CopyComplete
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\obj\Debug\Flipkart.dll
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\obj\Debug\Flipkart.pdb
+C:\Users\palash.doshi\source\repos\Flipkart\Flipkart\bin\Debug\SeleniumExtras.WaitHelpers.dll

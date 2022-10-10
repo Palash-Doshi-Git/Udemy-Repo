@@ -1,0 +1,15 @@
+C:\Users\palash.doshi\source\repos\StackExcerise\bin\Debug\net6.0\StackExcerise.exe
+C:\Users\palash.doshi\source\repos\StackExcerise\bin\Debug\net6.0\StackExcerise.deps.json
+C:\Users\palash.doshi\source\repos\StackExcerise\bin\Debug\net6.0\StackExcerise.runtimeconfig.json
+C:\Users\palash.doshi\source\repos\StackExcerise\bin\Debug\net6.0\StackExcerise.dll
+C:\Users\palash.doshi\source\repos\StackExcerise\bin\Debug\net6.0\StackExcerise.pdb
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.csproj.AssemblyReference.cache
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.AssemblyInfoInputs.cache
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.AssemblyInfo.cs
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.csproj.CoreCompileInputs.cache
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.dll
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\refint\StackExcerise.dll
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.pdb
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\StackExcerise.genruntimeconfig.cache
+C:\Users\palash.doshi\source\repos\StackExcerise\obj\Debug\net6.0\ref\StackExcerise.dll
